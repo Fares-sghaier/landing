@@ -1,0 +1,13 @@
+.spanv{
+    color: black;
+}
+.section-team .item_text {
+    color: rgb(0, 0, 0);
+    font-family: Lato;
+    word-wrap: break-word;
+    font-size: 24px;
+}
+.here{
+    text-decoration: underline;
+    color: aqua;
+}
